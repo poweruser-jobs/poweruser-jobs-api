@@ -1,2 +1,4 @@
-# poweruser-jobs-api
-PowerUser Jobs Public API
+# PowerUser Jobs API
+About poweruser.jobs
+
+Documentation
